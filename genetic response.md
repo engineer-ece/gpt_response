@@ -157,9 +157,8 @@ By combining computational simulations with rigorous experimental validation and
 
 </details>
 
-----
-
-# For pathway and metabolic network analysis
+<details>
+  <summary>For pathway and metabolic network analysis</summary>
 
 Pathway and metabolic network analysis are essential tools in systems biology and bioinformatics. They help understand the complex interactions and biochemical pathways within a cell or organism. Here are the key steps and tools involved in pathway and metabolic network analysis:
 
@@ -248,7 +247,8 @@ Pathway and metabolic network analysis are essential tools in systems biology an
 
 By following these steps and utilizing the appropriate tools, you can conduct comprehensive pathway and metabolic network analyses to uncover insights into the biological processes underlying your data.
 
----
+</details>
+
 
 
 
