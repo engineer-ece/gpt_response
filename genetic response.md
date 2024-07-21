@@ -43,35 +43,35 @@ The best tool for you will depend on the specific needs of your project, such as
 
 For simulating the effects of DNA or RNA modifications on an organism's body, several specialized tools and simulators can help predict and analyze the biological impact. These tools often focus on gene expression, protein function, metabolic pathways, and whole-body physiological responses. Here are some advanced options that might be useful:
 
-### 1. **COPASI (Complex Pathway Simulator)**
+### 1. [**COPASI (Complex Pathway Simulator)**](https://copasi.org/)
 - **Features**: COPASI is used for simulating and analyzing biochemical networks. It can model gene expression, metabolic networks, and signaling pathways, which helps predict how genetic modifications might affect cellular functions.
 - **Applications**: Suitable for detailed pathway analysis and understanding the impact of genetic changes on metabolic functions.
 
-### 2. **CellDesigner**
+### 2. [**CellDesigner**](https://www.celldesigner.org/)
 - **Features**: CellDesigner allows the construction and simulation of complex biological networks, including gene regulatory networks and metabolic pathways. It can visualize the dynamic changes in these networks.
 - **Applications**: Useful for visualizing and simulating the impact of DNA/RNA modifications on cellular and metabolic processes.
 
-### 3. **Cytoscape**
+### 3. [**Cytoscape**](https://cytoscape.org/)
 - **Features**: Cytoscape is an open-source software platform for visualizing complex networks and integrating these with various types of data. It is often used for gene expression and pathway analysis.
 - **Applications**: Ideal for integrating genetic modification data with biological networks to predict changes in cellular behavior.
 
-### 4. **GeneNet**
+### 4. [**GeneNet**](https://strimmerlab.github.io/software/genenet/)
 - **Features**: GeneNet provides tools for modeling and simulating genetic and metabolic networks. It includes capabilities for network inference and dynamic simulation.
 - **Applications**: Helps predict the impact of genetic modifications on metabolic and regulatory networks.
 
-### 5. **Virtual Cell (VCell)**
+### 5. [**Virtual Cell (VCell)**](https://vcell.org/)
 - **Features**: VCell is a computational framework for modeling and simulating cell biology. It can model biochemical reactions and cellular processes at multiple scales.
 - **Applications**: Used for understanding the effects of genetic modifications on cellular physiology.
 
-### 6. **SimBiology (MATLAB)**
+### 6. [**SimBiology (MATLAB)**](https://in.mathworks.com/products/simbiology.html)
 - **Features**: SimBiology provides a graphical environment and programmatic tools for modeling, simulating, and analyzing dynamic systems, including pharmacokinetic/pharmacodynamic (PK/PD) models and systems biology models.
 - **Applications**: Useful for modeling the effects of genetic changes on drug responses and cellular dynamics.
 
-### 7. **KBase**
+### 7. [**KBase**](https://www.kbase.us/)
 - **Features**: KBase is an integrated platform for predictive biology, allowing users to build models of cellular and metabolic functions and simulate the impact of genetic changes.
 - **Applications**: Suitable for predicting changes in metabolic pathways and understanding the system-level effects of genetic modifications.
 
-### 8. **SBML (Systems Biology Markup Language) Tools**
+### 8. [**SBML (Systems Biology Markup Language) Tools**](https://sbml.org/)
 - **Features**: A range of tools that support SBML, such as COPASI, VCell, and others, enable the creation and simulation of computational models of biological processes.
 - **Applications**: Facilitates detailed simulation and analysis of genetic and biochemical networks.
 
