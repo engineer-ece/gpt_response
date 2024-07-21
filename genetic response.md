@@ -1,5 +1,5 @@
 <details>
-  <summary><h1>Genetic engineering simulator and software</h1></summary>
+  <summary>Genetic engineering simulator and software</summary>
 
 Genetic engineering simulators and software tools are designed to aid in the design, simulation, and analysis of genetic modifications. Here are some popular options across different applications:
 
@@ -40,10 +40,9 @@ The best tool for you will depend on the specific needs of your project, such as
 
 
 </details>
----
 
-
-# which simulator is helpful to find changes in body, while modify the DNA or RNA
+<details>
+  <summary>Which simulator is helpful to find changes in body, while modify the DNA or RNA</summary>
 
 For simulating the effects of DNA or RNA modifications on an organism's body, several specialized tools and simulators can help predict and analyze the biological impact. These tools often focus on gene expression, protein function, metabolic pathways, and whole-body physiological responses. Here are some advanced options that might be useful:
 
@@ -89,9 +88,11 @@ The best choice depends on the specific requirements of your project:
 
 These tools often require some level of expertise in computational biology and bioinformatics. Many of them offer tutorials and documentation to help users get started. Additionally, some platforms like SimBiology and KBase offer more user-friendly interfaces and comprehensive support, which can be beneficial for beginners.
 
----
+</details>
 
-# How to apply and check to the human body, how human body react to those modifications?
+<details>
+<summary>How to apply and check to the human body, how human body react to those modifications?</summary>
+
 
 
 To apply and check how the human body reacts to genetic modifications, a multi-step process involving computational tools, experimental validation, and ethical considerations is necessary. Here’s a detailed approach:
@@ -153,6 +154,8 @@ Throughout this process, ethical and regulatory approvals are crucial:
 
 ### Conclusion
 By combining computational simulations with rigorous experimental validation and ethical clinical trials, we can systematically assess how genetic modifications impact the human body. This approach ensures both the efficacy and safety of genetic engineering applications in humans.
+
+</details>
 
 ----
 
