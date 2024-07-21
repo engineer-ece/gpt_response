@@ -3,35 +3,35 @@
 Genetic engineering simulators and software tools are designed to aid in the design, simulation, and analysis of genetic modifications. Here are some popular options across different applications:
 
 ### 1. **Gene Design and Cloning Tools**
-- **Benchling**: A comprehensive platform for life sciences R&D that offers tools for sequence design, CRISPR guide design, and molecular cloning.
-- **SnapGene**: Allows for the visualization, simulation, and documentation of molecular biology procedures, including cloning and PCR.
-- **Geneious**: Provides an integrated suite of tools for molecular biology and NGS analysis.
+- [**Benchling**](https://www.benchling.com/): A comprehensive platform for life sciences R&D that offers tools for sequence design, CRISPR guide design, and molecular cloning.
+- [**SnapGene**](https://www.snapgene.com/): Allows for the visualization, simulation, and documentation of molecular biology procedures, including cloning and PCR.
+- [**Geneious**](https://www.geneious.com/): Provides an integrated suite of tools for molecular biology and NGS analysis.
 
 ### 2. **CRISPR Design Tools**
-- **CRISPR-Cas9**: Tools like CRISPRdirect and CHOPCHOP provide resources for designing guide RNAs for CRISPR experiments.
+- [**CRISPR-Cas9**](https://www.idtdna.com/site/order/designtool/index/CRISPR_SEQUENCE): Tools like CRISPRdirect and CHOPCHOP provide resources for designing guide RNAs for CRISPR experiments.
 - **Benchling CRISPR**: Offers design and analysis of CRISPR experiments within the Benchling platform.
 
 ### 3. **Pathway and Genome Engineering**
-- **CellDesigner**: A modeling tool for biochemical networks that allows users to draw, simulate, and analyze gene-regulatory and biochemical networks.
-- **SynBioCAD**: A tool for synthetic biology and metabolic engineering, facilitating the design and simulation of genetic circuits and pathways.
+- [**CellDesigner**](https://www.celldesigner.org/): A modeling tool for biochemical networks that allows users to draw, simulate, and analyze gene-regulatory and biochemical networks.
+- [**SynBioCAD**](https://synbio-tech.com/services/): A tool for synthetic biology and metabolic engineering, facilitating the design and simulation of genetic circuits and pathways.
 
 ### 4. **Bioinformatics and Sequence Analysis**
-- **Biopython**: An open-source collection of tools for biological computation written in Python.
-- **BLAST (Basic Local Alignment Search Tool)**: Helps find regions of similarity between biological sequences, useful for identifying gene function and evolutionary relationships.
+- [**Biopython**](https://biopython.org/): An open-source collection of tools for biological computation written in Python.
+- [**BLAST (Basic Local Alignment Search Tool)**](https://blast.ncbi.nlm.nih.gov/Blast.cgi): Helps find regions of similarity between biological sequences, useful for identifying gene function and evolutionary relationships.
 
 ### 5. **Simulation and Modeling**
-- **COPASI (Complex Pathway Simulator)**: A software application for modeling and simulation of biochemical networks and their dynamics.
-- **PySCeS (Python Simulator for Cellular Systems)**: A Python-based simulator for the analysis of cellular systems and biochemical networks.
+- [**COPASI (Complex Pathway Simulator)**](https://copasi.org/): A software application for modeling and simulation of biochemical networks and their dynamics.
+- [**PySCeS (Python Simulator for Cellular Systems)**](https://pysces.sourceforge.net/): A Python-based simulator for the analysis of cellular systems and biochemical networks.
 
 ### 6. **Metabolic Engineering**
-- **COBRA Toolbox**: MATLAB-based software for constraint-based reconstruction and analysis of biological networks.
-- **KBase**: An integrated, extensible system designed to help users predict and understand the function of biological systems.
+- [**COBRA Toolbox**](https://opencobra.github.io/cobratoolbox/stable/index.html): MATLAB-based software for constraint-based reconstruction and analysis of biological networks.
+- [**KBase**](https://www.kbase.us/): An integrated, extensible system designed to help users predict and understand the function of biological systems.
 
 ### 7. **Whole-Genome Synthesis and Assembly**
-- **Gibson Assembly® Software**: Facilitates the design and assembly of large DNA constructs using the Gibson Assembly method.
+- [**Gibson Assembly® Software**](https://nebuilder.neb.com/): Facilitates the design and assembly of large DNA constructs using the Gibson Assembly method.
 
 ### 8. **Education and Outreach**
-- **Genome Compiler**: An intuitive genetic design platform that allows for the visualization and manipulation of genetic sequences.
+- [**Genome Compiler**](https://scolary.com/tools/genome-compiler): An intuitive genetic design platform that allows for the visualization and manipulation of genetic sequences.
 
 ### Choosing the Right Tool
 The best tool for you will depend on the specific needs of your project, such as the type of organism you are working with, the complexity of the genetic modifications, and whether you need to integrate with other lab management tools. Many of these platforms offer free trials or academic licenses, so you can explore them to find the best fit for your needs.
