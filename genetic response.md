@@ -1,4 +1,5 @@
-# genetic engineering simulator and software
+<details>
+  <summary><h1>Genetic engineering simulator and software</h1></summary>
 
 Genetic engineering simulators and software tools are designed to aid in the design, simulation, and analysis of genetic modifications. Here are some popular options across different applications:
 
@@ -36,6 +37,9 @@ Genetic engineering simulators and software tools are designed to aid in the des
 ### Choosing the Right Tool
 The best tool for you will depend on the specific needs of your project, such as the type of organism you are working with, the complexity of the genetic modifications, and whether you need to integrate with other lab management tools. Many of these platforms offer free trials or academic licenses, so you can explore them to find the best fit for your needs.
 
+
+
+</details>
 ---
 
 
