@@ -353,7 +353,7 @@ By following these steps and utilizing the appropriate tools, you can effectivel
 
 
 <details>
-  <summary>For cellular and physiological modeling:
+  <summary>For cellular and physiological modeling:</summary>
   Cellular and physiological modeling involves creating computational models that simulate the behavior of cells and tissues to understand their functions and interactions. These models can range from detailed simulations of biochemical networks within a single cell to complex representations of entire organs or systems.
 
 ### Steps for Cellular and Physiological Modeling
@@ -470,7 +470,7 @@ By following these steps and utilizing the appropriate tools, you can effectivel
    - Share the model in the BioModels database.
 
 By following these steps and utilizing the appropriate tools, you can create robust cellular and physiological models to explore complex biological systems and gain valuable insights into their functions and behaviors. 
-</summary>
+
 </details>
 
 
